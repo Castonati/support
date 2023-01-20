@@ -1,5 +1,6 @@
-<h4>How to Create a Pull Request<h4>
-Fork the repository by clicking on the "Fork" button in the top right corner of the GitHub page.
+## How to Create a Pull Request
+
+### Fork the repository by clicking on the "Fork" button in the top right corner of the GitHub page.
 
 1. Clone your fork of the repository to your local machine using the following command:
 
